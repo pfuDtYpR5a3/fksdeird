@@ -13,7 +13,7 @@ Heroku是一个支持多种编程语言的云平台即服务。目前支持Ruby�
 
 经测试本镜像占用内存资源较低，运行稳定。点击下方紫色图标部署。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/xxx/xxx)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/fote4Kv3U82goq/molblivssd)
 
 
 #### 注：失效问题
@@ -32,7 +32,7 @@ https://dashboard.heroku.com/new?template=https://github.com/rptec/heroku-vless.
 
 ### 路径
 
-`WebSocket` 路径(配置文件中的 `path` )为 `/` 。你也可以自行修改
+`WebSocket` 路径(配置文件中的 `path` )为 `/hyyt` 。你也可以自行修改
 
 ### 端口
 
