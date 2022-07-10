@@ -1,6 +1,6 @@
 {
-  "name": "heroku-vless",
-  "description": "Deploy vless on Heroku.",
+  "name": "molblivssd",
+  "description": "D.",
   "keywords": [
     "vless"
   ],
@@ -11,6 +11,6 @@
     }
   },
   "website": "https://github.com/rptec/",
-  "repository": "https://github.com/rptec/heroku-vless",
+  "repository": "https://github.com/fote4Kv3U82goq/molblivssd",
   "stack": "container"
 }
